@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Ekran Görüntüsü
+
+![Todo](https://github.com/ErginTIRAVOGLU/patika-react-task2/react-todo-app.png)
+
 ## Available Scripts
 
 In the project directory, you can run:

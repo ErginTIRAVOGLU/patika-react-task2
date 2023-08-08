@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Ekran Görüntüsü
 
-![Todo](https://github.com/ErginTIRAVOGLU/patika-react-task2/react-todo-app.png)
+![Todo](https://github.com/ErginTIRAVOGLU/patika-react-task2/blob/main/react-todo-app.png)
 
 ## Available Scripts
 
